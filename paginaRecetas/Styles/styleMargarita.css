@@ -1,0 +1,12 @@
+body{
+    background-color:bisque;
+}
+ul li{
+    font-size: 1.2rem;
+    font-weight: bold;
+    list-style: none;
+}
+
+p{
+    font-size: 1.5rem;
+}
